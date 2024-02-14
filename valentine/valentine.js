@@ -1,5 +1,5 @@
 
-var letterContent = " Chúc mừng ngày Lễ tình nhân nhé. Chúc em bé của anh luôn vui vẻ, hạnh phúc và mãi là cô bé đáng yêu của anh.Cảm ơn tình yêu em dành cho anh, anh đang rất nhớ em, nhớ đến cồn cào. Anh ước mình có đôi cánh để có thể bay đến bên em, ôm em thật chặt. Chúc honey của anh ngày Valentine hạnh phúc. Anh hi vọng khoảng cách này sẽ mau chóng kết thúc để chúng ta có thể gặp nhauu. iu em"
+var letterContent = "Chúc mừng ngày Lễ tình nhân nhé.Chúc em bé của anh luôn vui vẻ, hạnh phúc và mãi là cô bé đáng yêu của anh.Cảm ơn tình yêu em dành cho anh, anh đang rất nhớ em, nhớ đến cồn cào. Anh ước mình có đôi cánh để có thể bay đến bên em, ôm em thật chặt. Chúc honey của anh ngày Valentine hạnh phúc. Anh hi vọng khoảng cách này sẽ mau chóng kết thúc để chúng ta có thể gặp nhauu. iu em"
 durationWrite = 48
 function effectWrite () {
     var boxLetter = document.querySelector(".letterContent")
